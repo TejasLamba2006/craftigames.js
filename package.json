@@ -1,0 +1,47 @@
+{
+  "name": "craftigames.js",
+  "version": "1.0.0",
+  "description": "Easiest way to interact with the Pika Network API",
+  "main": "lib/index.js",
+  "repository": "https://github.com/TejasLamba2006/craftigames.js",
+  "author": {
+    "name": "TejasLamba2006",
+    "email": "tejas22feb@gmail.com",
+    "url": "https://github.com/TejasLamba2006"
+  },
+  "license": "MIT",
+  "types": "./types/index.d.ts",
+  "scripts": {
+    "types": "tsc",
+    "test": "mocha --timeout 10000"
+  },
+  "dependencies": {
+    "undici": "^6.19.2",
+    "zod": "^3.23.8",
+    "zod-validation-error": "^3.3.0"
+  },
+  "devDependencies": {
+    "mocha": "^10.4.0",
+    "typescript": "^5.4.5"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.githubusercontent.com/TejasLamba2006/craftigames.js/main/LICENSE"
+    }
+  ],
+  "keywords": [
+    "pikanetwork",
+    "pika",
+    "pika api",
+    "pikanetwork.js",
+    "pikanetwork api",
+    "craftigames",
+    "api",
+    "wrapper",
+    "api wrapper",
+    "pikajs",
+    "pika network node js api",
+    "pikanetwork api npm"
+  ]
+}
