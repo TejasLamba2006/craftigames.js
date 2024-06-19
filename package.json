@@ -1,6 +1,6 @@
 {
   "name": "craftigames.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easiest way to interact with the Pika Network API",
   "main": "lib/index.js",
   "repository": "https://github.com/TejasLamba2006/craftigames.js",
@@ -42,6 +42,14 @@
     "api wrapper",
     "pikajs",
     "pika network node js api",
-    "pikanetwork api npm"
+    "pikanetwork api npm",
+    "jartexnetwork",
+    "jartex",
+    "jartex api",
+    "jartexnetwork.js",
+    "jartexnetwork api",
+    "jartexjs",
+    "jartex network node js api",
+    "jartexnetwork api npm"
   ]
 }
